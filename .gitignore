@@ -1,0 +1,67 @@
+# ================================
+# Visual Studio / C++ Project
+# ================================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options
+.vs/
+*.cache
+*.log
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# C/C++ specific
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.manifest
+*.tlog
+*.lastbuildstate
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# ================================
+# Keep data files (DON'T ignore)
+# ================================
+# Clients.txt
+# Users.txt
+# Currencies.txt
+# TransferLog.txt
